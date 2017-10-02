@@ -18,3 +18,20 @@ Check https://bower.io
 
 <h5>To install Yarn:</h5>
 Check https://yarnpkg.com
+
+# Once you've cloned this repository
+To install node modules run:
+
+<pre>npm install</pre> or <pre>yarn install</pre>
+
+To install bower packages run:
+
+<pre>bower install</pre>
+
+To start the local server run:
+
+<pre>gulp serve</pre>
+
+To build (files can be found inside dist folder after build):
+
+<pre>gulp build</pre>
