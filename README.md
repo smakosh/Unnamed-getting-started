@@ -7,12 +7,12 @@ Git clone this repository to easily start coding your UI, easily edit the sass e
 Check https://nodejs.org
 
 <h5>To install Gulp:</h5>
-<pre>npm install gulp-cli -g</pre>
+`npm install gulp-cli -g`
 
 Check https://gulpjs.com 
 
 <h5>To install Bower:</h5>
-<pre>npm install -g bower</pre>
+`npm install -g bower`
 
 Check https://bower.io 
 
@@ -22,16 +22,16 @@ Check https://yarnpkg.com
 # Once you've cloned this repository
 To install node modules run:
 
-<pre>npm install</pre> or <pre>yarn install</pre>
+`npm install` or `yarn install`
 
 To install bower packages run:
 
-<pre>bower install</pre>
+`bower install`
 
 To start the local server run:
 
-<pre>gulp serve</pre>
+`gulp serve`
 
 To build (files can be found inside dist folder after build):
 
-<pre>gulp build</pre>
+`gulp build`
