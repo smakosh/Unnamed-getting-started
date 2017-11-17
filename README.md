@@ -7,12 +7,12 @@ Git clone this repository to easily start coding your UI, easily edit the sass e
 Check https://nodejs.org
 
 <h5>To install Gulp:</h5>
-`npm install gulp-cli -g`
+<pre>npm install gulp-cli -g</pre>
 
 Check https://gulpjs.com 
 
 <h5>To install Bower:</h5>
-`npm install -g bower`
+<pre>npm install -g bower</pre>
 
 Check https://bower.io 
 
